@@ -201,5 +201,3 @@ https://max-everyday.com/2023/02/common-problem-when-you-buy-ticket
 ## Extension Privacy 擴充功能隱私權政策
 
 https://github.com/max32002/tixcraft_bot/blob/master/README_EXTENSION.md
-#   B O - X U N  
- 
